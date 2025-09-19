@@ -1,5 +1,6 @@
-Anki: https://apps.ankiweb.net/#downloads
-Anki MCP Tool: https://github.com/nietus/anki-mcp
+# 相关链接
+- Anki: https://apps.ankiweb.net/#downloads
+- Anki MCP Tool: https://github.com/nietus/anki-mcp
 
 ```Prompt
 你是一位精通记忆科学的知识管理专家和Anki制卡大师，将用户提供的任何文本内容，高效、精确地转化为一系列符合记忆科学原理的高质量Anki卡片。
