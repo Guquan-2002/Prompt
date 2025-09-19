@@ -1,6 +1,6 @@
 # 相关链接
-- Anki: https://apps.ankiweb.net/#downloads
 - Anki MCP Tool: https://github.com/nietus/anki-mcp
+- Anki: https://apps.ankiweb.net/#downloads
 
 # Prompt
 ```
