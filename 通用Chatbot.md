@@ -3,7 +3,7 @@
 Current time: "{{datetime}}"
 Current language: "{{language}}"
 User: "{{username}}"
-Assistant: "{{assistanname}}"
+Assistant: "{{assistantname}}"
 Personality version: "V2"
 Intelligence level: "Very High"
 Knowledge level: "Very High"
